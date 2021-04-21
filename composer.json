@@ -22,15 +22,6 @@
             "NcJoes\\PopplerPhp\\" : "src/PopplerPhp"
         }
     },
-     "extra": {
-        "laravel": {
-            "providers": [
-                "Barryvdh\\Debugbar\\ServiceProvider"
-            ],
-            "aliases": {
-                "Debugbar": "Barryvdh\\Debugbar\\Facade"
-            }
-        }
-     },
+    
     "minimum-stability" : "stable"
 }
